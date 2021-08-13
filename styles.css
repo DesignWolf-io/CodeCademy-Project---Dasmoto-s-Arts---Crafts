@@ -94,12 +94,36 @@ body {
     margin-top: 5em;
 }
 
-.highlighted-shop-group {
+.highlighted-shop-group h2 {
     font-size: 2rem;
     font-weight: bold;
+    padding: .25em .5em;
+}
+
+
+.highlighted-shop-group {
+    margin: 1em;
 }
 
 .brushes-section {
     color: var(--brush-c);
     background-color: var(--brush-bg-c);
 }
+
+.frames-section {
+    color: var(--frame-c);
+    background-color: var(--frames-bg-c);
+}
+
+.paints-section {
+    color: var(--paint-c);
+    background-color: var(--paint-bg-c);
+}
+
+footer {
+    color: grey;
+    font-size: .8em;
+    text-align: center;
+}
+
+
